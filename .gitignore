@@ -1,3 +1,13 @@
-.env
+# Python cache files
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Environment variable file
+.env
+
+# VS Code settings (optional, if you use VS Code)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
